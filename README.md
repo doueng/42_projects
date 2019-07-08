@@ -3,8 +3,6 @@
 
 </br>
 
-## 42_projects
-
 These are the projects that I have completed during my time at 42.
 The projects are all written in accordance with the school style guide.
 The style guide prohibites do-while loops, switch statements,
